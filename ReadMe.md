@@ -73,11 +73,15 @@ head函数会默认获得5行80列的输出主要包含很多方面，这些东�
 
 ![](https://ws1.sinaimg.cn/large/006tKfTcly1fgygvefr3ij30rm0iq74m.jpg)
 
-我们看一下住房面积的分布，主要是集中在10000平方英尺，也就是900平方米。
+我们看一下住房面积的分布，主要是集中在1500平方英尺，也就是120平方米左右。
 
-![](https://ws1.sinaimg.cn/large/006tKfTcly1fgyh5zlv4fj30xk0w43zj.jpg)
+![](https://ws3.sinaimg.cn/large/006tKfTcly1fgyhgz9vnij30iy0bqmxq.jpg)
 
+建造年份主要在1950和2010年之间，我们可以看到在1950年的住房有非常密集的分布，我猜测实际上可能是将1950年之前的住房都算成1950年导致的。
 
+![](https://ws1.sinaimg.cn/large/006tKfTcly1fgyhk7clxaj30j40dwq3u.jpg)
+
+从这些数据我们可以看出，kaggle的数据来源主要是来自于一些地广人稀的发达国家。
 
 
 
