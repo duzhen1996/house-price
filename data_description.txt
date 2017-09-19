@@ -135,7 +135,7 @@ BldgType: Type of dwelling
        1Fam	Single-family Detached	
        2FmCon	Two-family Conversion; originally built as one-family dwelling
        Duplx	Duplex
-       TwnhsE	Townhouse End Unit
+       TwnhsE	Townhouse End Unit 联排别墅
        TwnhsI	Townhouse Inside Unit
 	
 HouseStyle: Style of dwelling
